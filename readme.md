@@ -1,4 +1,4 @@
-# Just a Foolish Repository
+# Gradle test
 
 A silly little repository created
 only to test my skills using git
